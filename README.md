@@ -18,3 +18,10 @@
 <strong>Out-painted large field of view X-ray with Smart Biomaterial</strong><br>
 <img width="200" src=https://github.com/hh1368hh/DRROutPrinter/assets/12381813/9490007f-05a6-49e3-b6ed-4aeec5eb3326>
 <p/>
+
+
+<p align="center">
+<strong>Out-painted large field of view X-ray with Smart Biomaterial</strong><br>
+<img width="200" src=https://github.com/hh1368hh/DRROutPrinter/assets/12381813/73fa25e6-8b01-4a62-b26e-097f5d01049d>
+<p/>
+<!-- ![Picture5](https://github.com/hh1368hh/DRROutPrinter/assets/12381813/73fa25e6-8b01-4a62-b26e-097f5d01049d) -->
